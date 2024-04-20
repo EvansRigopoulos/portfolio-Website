@@ -65,6 +65,9 @@ section {
   top: 0;
   padding: 3rem 18rem;
 }
+li{
+  list-style: circle;
+}
 
 .container {
   display: none;
