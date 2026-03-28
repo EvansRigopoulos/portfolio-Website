@@ -19,7 +19,7 @@ const Experience = () => {
           <div>
             <ul>
               <li><strong>Full-Stack Development & Cloud Scaling:</strong> Helping build and maintain distributed systems using TypeScript (React/NestJS) and AWS Serverless (Lambda, S3, RDS). We focus on delivering resilient backend logic and high-performance frontends to ensure top-tier reliability for our FinTech customers.</li>
-              <li><strong>Collaborative AI & Agentic Workflows:</strong> Contributing to the development of autonomous Design Agents and agentic workflows using Python (FastAPI) and LLMs. Together, we implement RAG for brand-specific context and HITL to keep designs collaborative, ensuring our AI-driven features meet high quality standards.</li>
+              <li><strong>Agentic AI App Development:</strong> Contributing to the creation of autonomous Design Agents and production-grade workflows using Python (FastAPI), LangGraph, and LLMs. Together, we implement RAG for brand-specific context and HITL to ensure collaborative, high-conversion design outputs.</li>
               <li><strong>Domain Support & Customer Impact:</strong> Supporting the Forms domain as a primary SME, helping our teams scale growth for mid-market businesses. I focus on bridging technical requirements with customer needs, working closely with Customer Success to solve complex challenges for our global users.</li>
               <li><strong>Acquisition Integration & Support:</strong> Assisting with the technical onboarding and integration efforts following the acquisition of Amped. I collaborated with multiple teams to sync our infrastructure into the Intuit ecosystem, providing a stable and unified experience for our transitioning customers.</li>
             </ul>
