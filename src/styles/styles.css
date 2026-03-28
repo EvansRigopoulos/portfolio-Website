@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #191d2b;
-  --color-secondary: #27ae60;
+  --color-secondary: #3B82F6; /* Sleek, eye-friendly Tech Blue for Dark Mode */
   --color-white: #ffffff;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -22,17 +22,17 @@
 }
 
 .light-mode {
-  --color-primary: #ffffff91;
-  --color-secondary: #0af0dd;
-  --color-white: #454e56;
+  --color-primary: #f8fafc;
+  --color-secondary: #2563EB;
+  --color-white: #0f172a;
   --color-black: #000;
-  --color-grey0: #f8f8f8;
-  --color-grey-1: #6c7983;
-  --color-grey-2: #6c7983;
-  --color-grey-3: #6c7983;
-  --color-grey-4: #454e56;
-  --color-grey-5: #f8f8f8;
-  --color-grey-6: #12181b;
+  --color-grey0: #ffffff;
+  --color-grey-1: #475569;
+  --color-grey-2: #64748b;
+  --color-grey-3: #94a3b8;
+  --color-grey-4: #ffffff;
+  --color-grey-5: #ffffff;
+  --color-grey-6: #e2e8f0;
 }
 
 body {
@@ -63,7 +63,7 @@ section {
   position: absolute;
   left: 0;
   top: 0;
-  padding: 3rem 18rem;
+  padding: 3rem clamp(2rem, 10vw, 15rem);
 }
 li{
   list-style: circle;
@@ -133,7 +133,7 @@ li{
   transition: all 0.4s ease-in-out;
 }
 .controls .active-btn i {
-  color: var(--color-white);
+  color: #fff;
 }
 
 .theme-btn {
@@ -170,7 +170,7 @@ li{
   display: flex;
   align-items: center;
   position: relative;
-  width: 600px;
+  flex: 1;
 }
 .header-content .left-header .h-shape {
   transition: all 0.4s ease-in-out;
@@ -207,9 +207,9 @@ li{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-right: 18rem;
+  padding-right: clamp(6rem, 15vw, 20rem);
   font-size: small;
-  width: 1000px;
+  flex: 1;
 }
 .header-content .right-header .csm {
   color: gray;
@@ -219,7 +219,7 @@ li{
 }
 .header-content .right-header .name {
   font-size: 2rem;
-  width: 600px;
+  width: 100%;
 }
 .header-content .right-header .name span {
   color: var(--color-secondary);
@@ -227,15 +227,16 @@ li{
 .header-content .right-header p {
   margin: 1.5rem 0;
   line-height: 2rem;
-  width: 650px;
+  width: 100%;
 }
 
 /*About*/
 .about-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   padding-top: 3.5rem;
   padding-bottom: 5rem;
+  grid-gap: 2rem;
 }
 .about-container .right-about {
   display: grid;
@@ -285,7 +286,7 @@ li{
   background-color: var(--color-grey-5);
 }
 .about-container .left-about {
-  padding-right: 5rem;
+  padding-right: 0;
 }
 .about-container .left-about p {
   line-height: 2rem;
@@ -386,7 +387,7 @@ li{
 /*Timeline*/
 .timeline {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 2rem;
   padding-bottom: 3rem;
 }
@@ -451,7 +452,7 @@ li{
 
 .portfolios {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 2rem;
   margin-top: 3rem;
 }
@@ -484,7 +485,7 @@ li{
 }
 .portfolios .portfolio-item .hover-item h3 {
   font-size: 1.5rem;
-  color: var(--color-white);
+  color: #fff;
   margin-bottom: 1.5rem;
 }
 .portfolios .portfolio-item .hover-item .icons {
@@ -506,7 +507,7 @@ li{
 }
 .portfolios .portfolio-item .hover-item .icons .icon i {
   font-size: 1.5rem;
-  color: var(--color-white);
+  color: #fff;
   margin: 0 1rem;
 }
 .portfolios .portfolio-item .hover-item .icons .icon:hover {
@@ -523,7 +524,7 @@ li{
 
 .experience {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 2rem;
   margin-top: 3rem;
 }
@@ -583,7 +584,7 @@ li{
   background-color: var(--color-secondary);
 }
 .contact-content-con .left-contact .contact-icon a:hover i {
-  color: var(--color-primary);
+  color: #fff;
 }
 .contact-content-con .left-contact .contact-icon a i {
   display: flex;
