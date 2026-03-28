@@ -11,7 +11,7 @@ const Portfolio = () => {
         {/* Project 1: AI Chat Architecture */}
         <div className="portfolio-item">
           <div className="image">
-            <img src="/images/port1.jpg" alt="AI Chat Architecture" />
+            <img src="images/port1.jpg" alt="AI Chat Architecture" />
           </div>
           <div className="hover-item">
             <h3 style={{ textAlign: "center", padding: "0 1rem" }}>Scalable AI Chat Architecture (Python)</h3>
@@ -26,7 +26,7 @@ const Portfolio = () => {
         {/* Project 2: Foodstore (Vercel) */}
         <div className="portfolio-item">
           <div className="image">
-            <img src="/images/port2.jpg" alt="Restaurant Live Page" />
+            <img src="images/port2.jpg" alt="Restaurant Live Page" />
           </div>
           <div className="hover-item">
             <h3 style={{ textAlign: "center", padding: "0 1rem" }}>Foodstore Restaurant App (Vercel Live)</h3>
@@ -41,7 +41,7 @@ const Portfolio = () => {
         {/* Project 3: Current Portfolio */}
         <div className="portfolio-item">
           <div className="image">
-            <img src="/images/port3.jpg" alt="Personal Portfolio" />
+            <img src="images/port3.jpg" alt="Personal Portfolio" />
           </div>
           <div className="hover-item">
             <h3 style={{ textAlign: "center", padding: "0 1rem" }}>Personal React Portfolio (This Site!)</h3>
@@ -56,7 +56,7 @@ const Portfolio = () => {
         {/* Project 4: Dissertation */}
         <div className="portfolio-item">
           <div className="image">
-            <img src="/images/port4.jpg" alt="University Landing Page" />
+            <img src="images/port4.jpg" alt="University Landing Page" />
           </div>
           <div className="hover-item">
             <h3 style={{ textAlign: "center", padding: "0 1rem" }}>University Landing Page (Dissertation)</h3>
@@ -71,7 +71,7 @@ const Portfolio = () => {
         {/* Project 5: Django Rest API (GitLab) */}
         <div className="portfolio-item">
           <div className="image">
-            <img src="/images/port5.jpg" alt="Django Books REST API" />
+            <img src="images/port5.jpg" alt="Django Books REST API" />
           </div>
           <div className="hover-item">
             <h3 style={{ textAlign: "center", padding: "0 1rem" }}>Django Books REST API</h3>
