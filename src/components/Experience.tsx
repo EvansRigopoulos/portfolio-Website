@@ -18,11 +18,10 @@ const Experience = () => {
           </h5>
           <div>
             <ul>
-              <li><strong>Forms Domain Leadership:</strong> Serving as the primary Subject Matter Expert (SME) for the Forms domain, providing strategic technical input to scale growth for mid-market businesses.</li>
-              <li><strong>Agentic AI Development:</strong> Leading the implementation of autonomous Design Agents for Forms using FastAPI and LLMs to automate high-conversion UI/UX workflows.</li>
-              <li><strong>AI Evaluation Pipelines:</strong> Engineering LLM-as-a-Judge frameworks to automate quality gatekeeping, ensuring generated assets meet accessibility and brand standards.</li>
-              <li><strong>Strategic Support:</strong> Partnering directly with Customer Success teams as a domain expert to resolve high-complexity technical challenges for global enterprise clients.</li>
-              <li><strong>Acquisition Integration:</strong> Successfully managed the technical onboarding and system integration during the transition from Amped to the Intuit ecosystem.</li>
+              <li><strong>Full-Stack Development & Cloud Scaling:</strong> Helping build and maintain distributed systems using TypeScript (React/NestJS) and AWS Serverless (Lambda, S3, RDS). We focus on delivering resilient backend logic and high-performance frontends to ensure top-tier reliability for our FinTech customers.</li>
+              <li><strong>Collaborative AI & Agentic Workflows:</strong> Contributing to the development of autonomous Design Agents and agentic workflows using Python (FastAPI) and LLMs. Together, we implement RAG for brand-specific context and HITL to keep designs collaborative, ensuring our AI-driven features meet high quality standards.</li>
+              <li><strong>Domain Support & Customer Impact:</strong> Supporting the Forms domain as a primary SME, helping our teams scale growth for mid-market businesses. I focus on bridging technical requirements with customer needs, working closely with Customer Success to solve complex challenges for our global users.</li>
+              <li><strong>Acquisition Integration & Support:</strong> Assisting with the technical onboarding and integration efforts following the acquisition of Amped. I collaborated with multiple teams to sync our infrastructure into the Intuit ecosystem, providing a stable and unified experience for our transitioning customers.</li>
             </ul>
           </div>
         </div>
