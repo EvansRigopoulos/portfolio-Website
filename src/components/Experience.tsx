@@ -2,11 +2,12 @@ const Experience = () => {
   return (
     <section className="container active" id="experience">
       <div className="main-title">
-        <h2 style={{ marginBottom: '30px' }}>
-          My <span>Experience</span><span className="bg-text">my jobs</span>
+        <h2 style={{ marginBottom: "30px" }}>
+          My <span>Experience</span>
+          <span className="bg-text">my jobs</span>
         </h2>
       </div>
-      
+
       <div className="timeline">
         <div className="timeline-item">
           <div className="tl-icon">
@@ -14,14 +15,42 @@ const Experience = () => {
           </div>
           <p className="tl-duration">Aug 2024 - Present</p>
           <h5>
-            Senior Software Engineer | Forms Domain Expert<span> - Intuit Mailchimp - London, UK (Hybrid)</span>
+            Senior Software Engineer | Forms Domain Expert
+            <span> - Intuit Mailchimp - London, UK (Hybrid)</span>
           </h5>
           <div>
             <ul>
-              <li><strong>Full-Stack Development & Cloud Scaling:</strong> Helping build and maintain distributed systems using TypeScript (React/NestJS) and AWS Serverless (Lambda, S3, RDS). We focus on delivering resilient backend logic and high-performance frontends to ensure top-tier reliability for our FinTech customers.</li>
-              <li><strong>Agentic AI App Development:</strong> Contributing to the creation of autonomous Design Agents and production-grade workflows using Python (FastAPI), LangGraph, and LLMs. Together, we implement RAG for brand-specific context and HITL to ensure collaborative, high-conversion design outputs.</li>
-              <li><strong>Domain Support & Customer Impact:</strong> Supporting the Forms domain as a primary SME, helping our teams scale growth for mid-market businesses. I focus on bridging technical requirements with customer needs, working closely with Customer Success to solve complex challenges for our global users.</li>
-              <li><strong>Acquisition Integration & Support:</strong> Assisting with the technical onboarding and integration efforts following the acquisition of Amped. I collaborated with multiple teams to sync our infrastructure into the Intuit ecosystem, providing a stable and unified experience for our transitioning customers.</li>
+              <li>
+                <strong>Full-Stack & Cloud Scaling:</strong> Building and
+                maintaining distributed systems using TypeScript (React/NestJS)
+                and AWS Serverless. Delivering resilient backend logic and
+                high-performance frontend to ensure top-tier reliability for
+                FinTech customers.
+              </li>
+              <li>
+                <strong>Agentic App Development:</strong> Building an autonomous
+                Design Agent for Forms using LangGraph, Python (FastAPI), and
+                LLM APIs. Implementing RAG to fetch KB articles for context,
+                HITL to enable human-in-the-loop collaborative design, and
+                LLM-as-a-Judge for automated quality gatekeeping.
+              </li>
+              <li>
+                <strong>Domain Support & Strategic Impact:</strong> Supporting
+                the Forms domain as an SME, help scale growth for mid-market
+                businesses. Bridging technical requirements with customer needs
+                to solve complex challenges.
+              </li>
+              <li>
+                <strong>Product & Design Collaboration:</strong> Partnering
+                closely with Product and Design teams to influence technical
+                decision-making and product strategy for the Forms domain.
+              </li>
+              <li>
+                <strong>Acquisition Integration:</strong> Assisting with
+                technical onboarding and integration efforts following the
+                acquisition of Amped, syncing infrastructure into the Intuit
+                ecosystem.
+              </li>
             </ul>
           </div>
         </div>
@@ -36,10 +65,23 @@ const Experience = () => {
           </h5>
           <div>
             <ul>
-              <li>Implemented new frontend features using JavaScript, TypeScript, HTML, and CSS.</li>
-              <li>Maintained and debugged existing codebase with unit testing using Jest and Storybook.</li>
-              <li>Improved technical documentation for the codebase and conducted QA testing prior to major releases.</li>
-              <li><strong>Agile Coaching:</strong> Supported a team of engineers by improving internal processes, identifying blockers, and reducing waste to ensure software excellence.</li>
+              <li>
+                Implemented new frontend features using JavaScript, TypeScript,
+                HTML, and CSS.
+              </li>
+              <li>
+                Maintained and debugged existing codebase with unit testing
+                using Jest and Storybook.
+              </li>
+              <li>
+                Improved technical documentation for the codebase and conducted
+                QA testing prior to major releases.
+              </li>
+              <li>
+                <strong>Agile Coaching:</strong> Supported a team of engineers
+                by improving internal processes, identifying blockers, and
+                reducing waste to ensure software excellence.
+              </li>
             </ul>
           </div>
         </div>
@@ -54,10 +96,24 @@ const Experience = () => {
           </h5>
           <div>
             <ul>
-              <li><strong>Scrum Master:</strong> Coached two cross-functional teams (Platform/SRE) for the CITRIX-ITM product, managing 10B+ real-user measurements across 500+ global servers.</li>
-              <li>Facilitated all Scrum and SAFe events, ensuring 100% of user stories were groomed and estimated to meet sprint goals.</li>
-              <li><strong>Software Engineer:</strong> Developed UI and backend features using JavaScript, MySQL, and HTML.</li>
-              <li><strong>Recognition:</strong> Received the "Impact Award" for piloting foundational "Scrum for Teams" training across the entire organization.</li>
+              <li>
+                <strong>Scrum Master:</strong> Coached two cross-functional
+                teams (Platform/SRE) for the CITRIX-ITM product, managing 10B+
+                real-user measurements across 500+ global servers.
+              </li>
+              <li>
+                Facilitated all Scrum and SAFe events, ensuring 100% of user
+                stories were groomed and estimated to meet sprint goals.
+              </li>
+              <li>
+                <strong>Software Engineer:</strong> Developed UI and backend
+                features using JavaScript, MySQL, and HTML.
+              </li>
+              <li>
+                <strong>Recognition:</strong> Received the "Impact Award" for
+                piloting foundational "Scrum for Teams" training across the
+                entire organization.
+              </li>
             </ul>
           </div>
         </div>
@@ -68,12 +124,20 @@ const Experience = () => {
           </div>
           <p className="tl-duration">2001 - 2021</p>
           <h5>
-            Previous Experience (Sales & Retail Management)<span> - Various (Lidl Hellas, Coca Cola 3E, McDonald's)</span>
+            Previous Experience (Sales & Retail Management)
+            <span> - Various (Lidl Hellas, Coca Cola 3E, McDonald's)</span>
           </h5>
           <div>
             <ul>
-              <li>Extensive background in Sales and Retail Store Management for major brands including Lidl Hellas, Coca Cola 3E, and McDonald's.</li>
-              <li>Expertise in Resource Management (People, Products, Facilities, and Budget) and high-level Customer Experience.</li>
+              <li>
+                Extensive background in Sales and Retail Store Management for
+                major brands including Lidl Hellas, Coca Cola 3E, and
+                McDonald's.
+              </li>
+              <li>
+                Expertise in Resource Management (People, Products, Facilities,
+                and Budget) and high-level Customer Experience.
+              </li>
             </ul>
           </div>
         </div>
