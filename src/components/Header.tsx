@@ -33,9 +33,9 @@ const Header = () => {
             <p style={{ marginBottom: "1rem" }}>
               <strong>Agentic AI App Development:</strong> Contributing to the
               creation of autonomous Design Agents and production-grade
-              workflows using Python (FastAPI), LangGraph, and LLM APIs.
-              Implementing RAG for brand-specific context, HITL, and LLM-as-
-              judge to ensure AI-driven features meet quality standards.
+              workflows using Python (FastAPI) and LangGraph. Implementing RAG
+              for fetching KB articles as context, HITL, and LLM-as- judge to
+              ensure AI-driven features meet quality standards.
             </p>
             <p>
               <strong>Strategic Impact & Domain Expertise:</strong> Supporting
