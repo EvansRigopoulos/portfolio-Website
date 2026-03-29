@@ -28,15 +28,15 @@ const About = () => {
         <div className="right-about">
           <div className="about-item">
             <div className="abt-text">
-              <p className="large-text">5+</p>
-              <p className="small-text">Years of Engineering Experience</p>
+              <p className="large-text">1</p>
+              <p className="small-text">Startup Acquisition & Transition Support</p>
             </div>
           </div>
 
           <div className="about-item">
             <div className="abt-text">
               <p className="large-text">1</p>
-              <p className="small-text">Impact Award (TPM Citrix)</p>
+              <p className="small-text">Impact Award for Agile/Scrum Curriculum & Training (TPM Citrix)</p>
             </div>
           </div>
           <div className="about-item">
