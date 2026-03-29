@@ -12,24 +12,22 @@ const About = () => {
           <h4>Information about me</h4>
           <p>
             <strong>
-              Experienced Senior Software Engineer and Certified Scrum Master
-              (CSM)
+              Senior Software Engineer and Certified Scrum Master (CSM)
             </strong>{" "}
-            dedicated to engineering excellence and team self-organization.
-            Expert in implementing resilient, distributed systems using
-            TypeScript (React/Nest.js) and AWS Serverless (Lambda, S3,
-            RDS/PostgreSQL).
+            focused on engineering excellence and team self-organization. I
+            specialize in helping build resilient, distributed systems using
+            TypeScript (React/Nest.js) and AWS Serverless, with a proven track
+            record of supporting a startup through high-impact acquisition and
+            technical transition.
           </p>
           <p>
-            Currently serving as a <strong>Senior Software Engineer</strong> and{" "}
-            <strong>Forms Domain Expert</strong> at{" "}
-            <strong>Intuit Mailchimp</strong> in London. I actively contribute
-            to multiple areas of the application, engineering robust solutions
-            across numerous microservices to bridge the gap between complex
-            backend constraints and seamless frontend user experiences.
-            Additionally, I am contributing to the development of an autonomous{" "}
-            <strong>Design Agent</strong> leveraging Python (FastAPI) and LLMs
-            to revolutionize our form creation and design workflows.
+            Currently, I'm contributing to the <strong>Forms Domain</strong> at{" "}
+            <strong>Intuit Mailchimp</strong> in London. My work involves
+            engineering robust solutions across microservices to bridge the gap
+            between complex backend constraints and seamless user experiences. I
+            am also helping develop an autonomous <strong>Design Agent</strong>{" "}
+            using Python (FastAPI), LangGraph, and LLM APIs to evolve our form
+            creation and design workflows.
           </p>
           <div className="btn-con">
             <a
