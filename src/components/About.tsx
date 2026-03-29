@@ -154,7 +154,7 @@ const About = () => {
                 <div className="tl-icon">
                   <i className="fas fa-university"></i>
                 </div>
-                <p className="tl-duration">Expected 2026</p>
+                <p className="tl-duration">Expected 2027</p>
                 <h5>
                   Master of Business Administration (MBA)
                   <span> - Hellenic Open University</span>
