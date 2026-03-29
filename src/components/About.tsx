@@ -152,7 +152,7 @@ const About = () => {
             <div className="timeline">
               <div className="timeline-item">
                 <div className="tl-icon">
-                  <i className="fas fa-university"></i>
+                  <i className="fas fa-graduation-cap"></i>
                 </div>
                 <p className="tl-duration">Expected 2027</p>
                 <h5>
@@ -192,13 +192,23 @@ const About = () => {
                   Change Management (ADKAR)<span> - Prosci Certified</span>
                 </h5>
               </div>
+
               <div className="timeline-item">
                 <div className="tl-icon">
-                  <i className="fas fa-graduation-cap"></i>
+                  <i className="fas fa-certificate"></i>
                 </div>
-                <p className="tl-duration">Expected 2027</p>
+                <p className="tl-duration">Active</p>
                 <h5>
-                  MBA<span> - Business Administration</span>
+                  Situational Leadership II<span> - Ken Blanchard</span>
+                </h5>
+              </div>
+              <div className="timeline-item">
+                <div className="tl-icon">
+                  <i className="fas fa-certificate"></i>
+                </div>
+                <p className="tl-duration">Active</p>
+                <h5>
+                  Crucial Conversations<span> - Citrix Learning</span>
                 </h5>
               </div>
             </div>
