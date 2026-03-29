@@ -194,11 +194,11 @@ const About = () => {
               </div>
               <div className="timeline-item">
                 <div className="tl-icon">
-                  <i className="fas fa-certificate"></i>
+                  <i className="fas fa-graduation-cap"></i>
                 </div>
-                <p className="tl-duration">Active</p>
+                <p className="tl-duration">Expected 2027</p>
                 <h5>
-                  Situational Leadership II<span> - Ken Blanchard</span>
+                  MBA<span> - Business Administration</span>
                 </h5>
               </div>
             </div>
