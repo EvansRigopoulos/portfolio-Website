@@ -218,7 +218,7 @@ li{
   color: var(--color-secondary);
 }
 .header-content .right-header .name {
-  font-size: 2rem;
+  font-size: 1.5rem;
   width: 100%;
 }
 .header-content .right-header .name span {
