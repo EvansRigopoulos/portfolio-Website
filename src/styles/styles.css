@@ -339,16 +339,24 @@ li {
   height: 100%;
   background-color: var(--color-secondary);
   transition: all 0.4s ease-in-out;
-  width: 60%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .C#-NET {
-  width: 60%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .HTML5-CSS {
-  width: 80%;
+  width: 0%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 95%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .c-sharp-net {
+  width: 90%;
+}
+.about-stats
+  .progress-bars
+  .progress-bar
+  .progress-con
+  .progress
+  .Agile-Scrum-SAFe {
+  width: 95%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .MySQL {
+  width: 85%;
 }
 .about-stats
   .progress-bars
@@ -356,7 +364,7 @@ li {
   .progress-con
   .progress
   .Jira-Confluence {
-  width: 90%;
+  width: 95%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .MySQL {
   width: 75%;

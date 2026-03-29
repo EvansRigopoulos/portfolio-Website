@@ -94,14 +94,14 @@ const About = () => {
             <div className="progress-con">
               <p className="prog-text">90%</p>
               <div className="progress">
-                <span className="C#-NET"></span>
+                <span className="c-sharp-net"></span>
               </div>
             </div>
           </div>
           <div className="progress-bar">
             <p className="prog-title">AI & Agents APIs with LangGraph</p>
             <div className="progress-con">
-              <p className="prog-text">95%</p>
+              <p className="prog-text">90%</p>
               <div className="progress">
                 <span className="Agile-Scrum-SAFe"></span>
               </div>
