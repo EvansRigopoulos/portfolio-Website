@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #191d2b;
-  --color-secondary: #3B82F6; /* Sleek, eye-friendly Tech Blue for Dark Mode */
+  --color-secondary: #3b82f6; /* Sleek, eye-friendly Tech Blue for Dark Mode */
   --color-white: #ffffff;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -23,7 +23,7 @@
 
 .light-mode {
   --color-primary: #f8fafc;
-  --color-secondary: #2563EB;
+  --color-secondary: #2563eb;
   --color-white: #0f172a;
   --color-black: #000;
   --color-grey0: #ffffff;
@@ -65,7 +65,7 @@ section {
   top: 0;
   padding: 3rem clamp(2rem, 10vw, 15rem);
 }
-li{
+li {
   list-style: circle;
 }
 
@@ -79,7 +79,7 @@ li{
 .active {
   display: block;
   -webkit-animation: appear 1s ease-in-out;
-          animation: appear 1s ease-in-out;
+  animation: appear 1s ease-in-out;
   transform: translateY(0) scaleY(1);
 }
 @-webkit-keyframes appear {
@@ -182,7 +182,7 @@ li{
   top: 0;
   z-index: -1;
   -webkit-clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
-          clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+  clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
 }
 .header-content .left-header .image {
   border-radius: var(--br-sm-2);
@@ -196,7 +196,7 @@ li{
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   transition: all 0.4s ease-in-out;
   filter: grayscale(100%);
 }
@@ -350,13 +350,23 @@ li{
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .Jira-Confluence {
+.about-stats
+  .progress-bars
+  .progress-bar
+  .progress-con
+  .progress
+  .Jira-Confluence {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .MySQL {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .Agile-Scrum-SAFe {
+.about-stats
+  .progress-bars
+  .progress-bar
+  .progress-con
+  .progress
+  .Agile-Scrum-SAFe {
   width: 90%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .Git {
@@ -464,7 +474,7 @@ li{
   width: 100%;
   height: 300px;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 15px;
 }
 .portfolios .portfolio-item .hover-item {
@@ -975,4 +985,4 @@ li{
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
-}/*# sourceMappingURL=styles.css.map */
+} /*# sourceMappingURL=styles.css.map */
