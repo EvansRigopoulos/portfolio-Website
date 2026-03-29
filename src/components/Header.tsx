@@ -11,17 +11,17 @@ const Header = () => {
         <div className="right-header">
           <h1 className="name">
             Hi, I'm <span>Evangelos Rigopoulos</span> <br/>
-            Senior Full-Stack Engineer | Forms Domain Expert | Agentic AI Specialist
+            Senior Full-Stack Software Engineer | Forms Domain Expert | Agentic AI Engineer — Agile Lead
           </h1>
           <div className="header-text-block" style={{ margin: '1.5rem 0', lineHeight: '2rem', width: '100%', maxWidth: '650px' }}>
             <p style={{ marginBottom: '1rem' }}>
-              <strong>Full-Stack Mastery:</strong> Implementing resilient, distributed systems using TypeScript (React/NestJS) and AWS Serverless. I bridge deep backend logic with seamless frontend execution to deliver top-notch performance.
+              <strong>Full-Stack Mastery:</strong> Helping build and maintain distributed systems using TypeScript (React/NestJS) and AWS Serverless (Lambda, S3, RDS). We focus on delivering resilient backend logic and high-performance frontends to ensure top-tier reliability for our FinTech customers.
             </p>
             <p style={{ marginBottom: '1rem' }}>
-              <strong>AI & Agentic Engineering:</strong> Diving into production-grade Agentic workflows and a Design Agent for Forms using Python (FastAPI) and LLMs. Focus areas include RAG for brand context, HITL for collaborative design, and LLM-as-a-Judge frameworks.
+              <strong>Agentic AI App Development:</strong> Contributing to the creation of autonomous Design Agents and production-grade workflows using Python (FastAPI), LangGraph, and LLM APIs. Together, we implement RAG for brand-specific context and HITL to ensure AI-driven features meet quality standards.
             </p>
             <p>
-              <strong>Strategic Impact:</strong> As a Forms Domain Expert at Intuit Mailchimp, I drive key feature development and provide strategic insights for mid-market business growth while empowering our Customer Success pipelines.
+              <strong>Strategic Impact & Domain Expertise:</strong> Supporting the Forms domain as a primary SME, helping our teams scale growth for mid-market businesses. I focus on bridging technical requirements with customer needs to solve complex architectural challenges.
             </p>
           </div>
           <div className="btn-con">
