@@ -27,8 +27,10 @@ const Header = () => {
               <strong>Full-Stack Mastery:</strong> Helping build and maintain
               distributed systems using TypeScript (React/NestJS) and AWS
               Serverless (Lambda, S3, RDS). We focus on delivering resilient
-              backend logic and high-performance frontend to ensure top-tier
-              reliability for our FinTech customers.
+              backend logic and high-performance frontend, helping mid-market
+              e-commerce businesses (Shopify stores, e-shops) grow their
+              audience lists and turn subscribers into customers through
+              signup forms, discounts and newsletters.
             </p>
             <p style={{ marginBottom: "1rem" }}>
               <strong>Agentic AI App Development:</strong> Contributing to the

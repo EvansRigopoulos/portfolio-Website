@@ -24,8 +24,9 @@ const Experience = () => {
                 <strong>Full-Stack & Cloud Scaling:</strong> Building and
                 maintaining distributed systems using TypeScript (React/NestJS)
                 and AWS Serverless. Delivering resilient backend logic and
-                high-performance frontend to ensure top-tier reliability for
-                FinTech customers.
+                high-performance frontend for the signup forms mid-market
+                e-commerce businesses (Shopify, e-shops) rely on to grow their
+                lists and drive sales.
               </li>
               <li>
                 <strong>Agentic App Development:</strong> Building an autonomous
