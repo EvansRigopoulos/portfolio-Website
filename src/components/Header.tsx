@@ -11,8 +11,8 @@ const Header = () => {
         <div className="right-header">
           <h1 className="name">
             Hi, I'm <span>Evangelos Rigopoulos</span> <br />
-            Senior Full-Stack Software Engineer | Forms Domain Expert | Agentic
-            AI Engineer — Agile Lead
+            Senior Software Engineer · Agentic AI & Evaluation · Full-Stack
+            (TypeScript/Python)
           </h1>
           <div
             className="header-text-block"
