@@ -43,8 +43,8 @@ const Header = () => {
             </p>
             <p>
               <strong>Strategic Impact & Domain Expertise:</strong> Supporting
-              the Forms domain as an SME, helping our teams scale growth for
-              mid-market businesses. I focus on bridging technical requirements
+              the Forms domain as an SME, helping our teams scale list growth
+              and sales for mid-market e-commerce businesses. I focus on bridging technical requirements
               with customer needs to solve complex technical challenges.
             </p>
           </div>

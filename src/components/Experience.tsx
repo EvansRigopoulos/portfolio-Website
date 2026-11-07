@@ -44,8 +44,8 @@ const Experience = () => {
               </li>
               <li>
                 <strong>Domain Support & Strategic Impact:</strong> Supporting
-                the Forms domain as an SME, help scale growth for mid-market
-                businesses. Bridging technical requirements with customer needs
+                the Forms domain as an SME, helping mid-market e-commerce
+                businesses scale list growth and sales. Bridging technical requirements with customer needs
                 to solve complex challenges.
               </li>
               <li>
