@@ -31,7 +31,7 @@ const Contact = () => {
             </div>
             <div className="contact-icons">
               <div className="contact-icon">
-                <a href="https://www.linkedin.com/in/evangelos-rigopoulos-07333686/" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/evangelos-rigopoulos/" target="_blank" rel="noreferrer">
                   <i className="fab fa-linkedin"></i>
                 </a>
 
