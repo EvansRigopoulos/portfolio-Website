@@ -24,20 +24,24 @@ const Experience = () => {
                 <strong>Full-Stack & Cloud Scaling:</strong> Building and
                 maintaining distributed systems using TypeScript (React/NestJS)
                 and AWS Serverless. Delivering resilient backend logic and
-                high-performance frontend to ensure top-tier reliability for
-                FinTech customers.
+                high-performance frontend for the signup forms mid-market
+                e-commerce businesses (Shopify, e-shops) rely on to grow their
+                lists and drive sales.
               </li>
               <li>
-                <strong>Agentic App Development:</strong> Building an autonomous
-                Design Agent for Forms using LangGraph, Python (FastAPI), and
-                LLM APIs. Implementing RAG to fetch KB articles for context,
-                HITL to enable human-in-the-loop collaborative design, and
-                LLM-as-a-Judge for automated quality gatekeeping.
+                <strong>AI & Agentic Engineering:</strong> Building a Design
+                Agent for Forms with Python (FastAPI), LangGraph and LLMs.
+                Working across the agent harness: reusable skills, typed tool
+                interfaces, and multi-agent orchestration, with RAG over KB
+                articles and HITL checkpoints. Main focus on evaluation
+                pipelines: golden datasets, deterministic checks plus
+                LLM-as-a-Judge scoring, and regression evals that gate prompt,
+                model and tool changes.
               </li>
               <li>
                 <strong>Domain Support & Strategic Impact:</strong> Supporting
-                the Forms domain as an SME, help scale growth for mid-market
-                businesses. Bridging technical requirements with customer needs
+                the Forms domain as an SME, helping mid-market e-commerce
+                businesses scale list growth and sales. Bridging technical requirements with customer needs
                 to solve complex challenges.
               </li>
               <li>

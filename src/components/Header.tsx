@@ -11,8 +11,8 @@ const Header = () => {
         <div className="right-header">
           <h1 className="name">
             Hi, I'm <span>Evangelos Rigopoulos</span> <br />
-            Senior Full-Stack Software Engineer | Forms Domain Expert | Agentic
-            AI Engineer — Agile Lead
+            Senior Software Engineer · Agentic AI & Evaluation · Full-Stack
+            (TypeScript/Python)
           </h1>
           <div
             className="header-text-block"
@@ -27,20 +27,24 @@ const Header = () => {
               <strong>Full-Stack Mastery:</strong> Helping build and maintain
               distributed systems using TypeScript (React/NestJS) and AWS
               Serverless (Lambda, S3, RDS). We focus on delivering resilient
-              backend logic and high-performance frontend to ensure top-tier
-              reliability for our FinTech customers.
+              backend logic and high-performance frontend, helping mid-market
+              e-commerce businesses (Shopify stores, e-shops) grow their
+              audience lists and turn subscribers into customers through
+              signup forms, discounts and newsletters.
             </p>
             <p style={{ marginBottom: "1rem" }}>
               <strong>Agentic AI App Development:</strong> Contributing to the
               creation of autonomous Design Agents and production-grade
-              workflows using Python (FastAPI) and LangGraph. Implementing RAG
-              for fetching KB articles as context, HITL, and LLM-as- judge to
-              ensure AI-driven features meet quality standards.
+              workflows using Python (FastAPI) and LangGraph. Working on the
+              agent harness (reusable skills, typed tool interfaces,
+              multi-agent orchestration with RAG and HITL), with a main focus
+              on evaluation pipelines: golden datasets, LLM-as-a-Judge scoring,
+              and regression evals that gate prompt, model and tool changes.
             </p>
             <p>
               <strong>Strategic Impact & Domain Expertise:</strong> Supporting
-              the Forms domain as an SME, helping our teams scale growth for
-              mid-market businesses. I focus on bridging technical requirements
+              the Forms domain as an SME, helping our teams scale list growth
+              and sales for mid-market e-commerce businesses. I focus on bridging technical requirements
               with customer needs to solve complex technical challenges.
             </p>
           </div>
