@@ -21,14 +21,6 @@ const Experience = () => {
           <div>
             <ul>
               <li>
-                <strong>Full-Stack & Cloud Scaling:</strong> Building and
-                maintaining distributed systems using TypeScript (React/NestJS)
-                and AWS Serverless. Delivering resilient backend logic and
-                high-performance frontend for the signup forms mid-market
-                e-commerce businesses (Shopify, e-shops) rely on to grow their
-                lists and drive sales.
-              </li>
-              <li>
                 <strong>AI & Agentic Engineering:</strong> Building a Design
                 Agent for Forms with Python (FastAPI), LangGraph and LLMs.
                 Working across the agent harness: reusable skills, typed tool
@@ -37,6 +29,14 @@ const Experience = () => {
                 pipelines: golden datasets, deterministic checks plus
                 LLM-as-a-Judge scoring, and regression evals that gate prompt,
                 model and tool changes.
+              </li>
+              <li>
+                <strong>Full-Stack & Cloud Scaling:</strong> Building and
+                maintaining distributed systems using TypeScript (React/NestJS)
+                and AWS Serverless. Delivering resilient backend logic and
+                high-performance frontend for the signup forms mid-market
+                e-commerce businesses (Shopify, e-shops) rely on to grow their
+                lists and drive sales.
               </li>
               <li>
                 <strong>Domain Support & Strategic Impact:</strong> Supporting

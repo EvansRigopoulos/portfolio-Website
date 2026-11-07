@@ -24,6 +24,15 @@ const Header = () => {
             }}
           >
             <p style={{ marginBottom: "1rem" }}>
+              <strong>AI & Agentic Engineering:</strong> Contributing to the
+              creation of autonomous Design Agents and production-grade
+              workflows using Python (FastAPI) and LangGraph. Working on the
+              agent harness (reusable skills, typed tool interfaces,
+              multi-agent orchestration with RAG and HITL), with a main focus
+              on evaluation pipelines: golden datasets, LLM-as-a-Judge scoring,
+              and regression evals that gate prompt, model and tool changes.
+            </p>
+            <p style={{ marginBottom: "1rem" }}>
               <strong>Full-Stack Mastery:</strong> Helping build and maintain
               distributed systems using TypeScript (React/NestJS) and AWS
               Serverless (Lambda, S3, RDS). We focus on delivering resilient
@@ -31,15 +40,6 @@ const Header = () => {
               e-commerce businesses (Shopify stores, e-shops) grow their
               audience lists and turn subscribers into customers through
               signup forms, discounts and newsletters.
-            </p>
-            <p style={{ marginBottom: "1rem" }}>
-              <strong>Agentic AI App Development:</strong> Contributing to the
-              creation of autonomous Design Agents and production-grade
-              workflows using Python (FastAPI) and LangGraph. Working on the
-              agent harness (reusable skills, typed tool interfaces,
-              multi-agent orchestration with RAG and HITL), with a main focus
-              on evaluation pipelines: golden datasets, LLM-as-a-Judge scoring,
-              and regression evals that gate prompt, model and tool changes.
             </p>
             <p>
               <strong>Strategic Impact & Domain Expertise:</strong> Supporting
