@@ -27,7 +27,9 @@ const About = () => {
             between complex backend constraints and seamless user experiences. I
             am also helping develop an autonomous <strong>Design Agent</strong>{" "}
             using Python (FastAPI), LangGraph, and LLM APIs to evolve our form
-            creation and design workflows.
+            creation and design workflows, working across its agent harness
+            (skills, tools, orchestration) and, above all, its evaluation
+            pipelines.
           </p>
           <div className="btn-con">
             <a
@@ -99,7 +101,7 @@ const About = () => {
             </div>
           </div>
           <div className="progress-bar">
-            <p className="prog-title">AI & Agents APIs with LangGraph</p>
+            <p className="prog-title">AI Agents (LangGraph, Harness & Evals)</p>
             <div className="progress-con">
               <p className="prog-text">90%</p>
               <div className="progress">
@@ -134,6 +136,7 @@ const About = () => {
           <ul>
             <li>Cross-Functional Team Leadership</li>
             <li>AI Product Strategy & Execution</li>
+            <li>Agent Evaluation Pipelines & LLM-as-a-Judge</li>
             <li>Mentorship & Domain SME Support</li>
             <li>Agile Coaching & SAFe (CSM Certified)</li>
             <li>

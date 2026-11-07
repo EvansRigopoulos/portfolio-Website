@@ -30,9 +30,16 @@ const Experience = () => {
               <li>
                 <strong>Agentic App Development:</strong> Building an autonomous
                 Design Agent for Forms using LangGraph, Python (FastAPI), and
-                LLM APIs. Implementing RAG to fetch KB articles for context,
-                HITL to enable human-in-the-loop collaborative design, and
-                LLM-as-a-Judge for automated quality gatekeeping.
+                LLM APIs, with RAG over KB articles and HITL collaborative
+                design.
+              </li>
+              <li>
+                <strong>Agent Harness & Evaluation:</strong> Contributing to the
+                agent harness: reusable skills, typed tool interfaces, and
+                multi-agent orchestration in LangGraph with HITL checkpoints.
+                Main focus on evaluation pipelines: golden datasets,
+                deterministic checks plus LLM-as-a-Judge scoring, and
+                regression evals that gate prompt, model and tool changes.
               </li>
               <li>
                 <strong>Domain Support & Strategic Impact:</strong> Supporting
